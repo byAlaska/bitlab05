@@ -10,6 +10,9 @@ public class Main {
         System.out.println("HEllo");
 
 
+        System.out.println("BYEBYE");
+
+
         Multivarka multivarka = new Multivarka();
         ElectroCar car = new ElectroCar();
         Telephone telephone = new Telephone();
